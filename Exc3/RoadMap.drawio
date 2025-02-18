@@ -1,0 +1,172 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
+  <diagram id="6faDem5PxRRIMGQd80wj" name="Roadmap_change">
+    <mxGraphModel dx="10697" dy="4568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QlwB00z0-otb056kdUWZ-19" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2500" y="-720" width="1830" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-18" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2500" y="-920" width="1830" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-3" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2500" y="-1146.8" width="1830" height="216.8" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-6" value="Инфраструктурная&amp;nbsp;&lt;div&gt;команда&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-2680" y="-1146.8" width="170" height="196.8" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-8" value="Q1-Q4" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-2500" y="-1240" width="1820" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-14" value="Команда старого&amp;nbsp;&lt;div&gt;DWH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-2680" y="-920" width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-15" value="Головной офис" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-2690" y="-720" width="180" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="z94q5UIEPKDTldP2ef7I-1" value="Медицинский домен" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-2700" y="-250" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="z94q5UIEPKDTldP2ef7I-2" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2510" y="-247.5" width="1830" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="tPsS3z4EaNFAmyqLZZ86-3" value="Развернуть инфраструктуру&lt;div&gt;Data Lake&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2200" y="-1110" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-1" value="Развернуть Greenplum" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1930" y="-1110" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-2" value="Определить стратегию&amp;nbsp;&lt;div&gt;переноса данных&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="-870" width="800" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-3" value="Реализовать стратегию&lt;div&gt;переноса данных&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="-880" width="940" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-4" value="Стандартизировать процедуры ELT/ETL загрузки&lt;div&gt;данных в Data Lake&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2200" y="-690" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-5" value="Стандартизировать процедуры ETL загрузки&lt;div&gt;данных в Greenplum&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1970" y="-690" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-6" value="Пройти обучение по созданию&amp;nbsp;&lt;div&gt;пайплайна данных&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="-207.5" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-8" value="Конфигурирование BI-инструментов на работу с новыми источниками данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="-690" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-9" value="Создать пример реализации пайплайна данных и разработать план обучения сотрудников" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1770" y="-690" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-10" value="Настроить аккаунты, роли и права" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2200" y="-1010" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-11" value="Провести аудит безопасности и сформировать требования по хранению данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="-695" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-14" value="Развернуть инфраструктуру&lt;div&gt;Apache Kafka&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2470" y="-1020" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-15" value="Настроить права доступов в Power BI и Greenplum" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="-680" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-16" value="Финансовый домен" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-2700" y="-20" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-17" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2510" y="-20" width="1830" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-18" value="Фармацевтический&lt;div&gt;домен&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-2700" y="230" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-19" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2510" y="230" width="1830" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-20" value="Домен производителя электроники" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-2700" y="500" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-21" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2510" y="500" width="1830" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-22" value="ИИ домен" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-2700" y="770" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-23" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2510" y="770" width="1830" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-24" value="Развернуть инфраструктуру&lt;div&gt;Kubernates&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2470" y="-1110" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-25" value="Развернуть инфраструктуру&lt;div&gt;мониторинга и логгирования&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="-1110" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-26" value="Пройти обучение по созданию&amp;nbsp;&lt;div&gt;пайплайна данных&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1680" y="20" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-27" value="Пройти обучение по созданию&amp;nbsp;&lt;div&gt;пайплайна данных&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="275" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-28" value="Пройти обучение по созданию&amp;nbsp;&lt;div&gt;пайплайна данных&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="540" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-29" value="Пройти обучение по созданию&amp;nbsp;&lt;div&gt;пайплайна данных&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1685" y="812.5" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-31" value="Реализовать пакетный пайплайн данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="540" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-32" value="Реализовать потоковый пайплайн данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="540" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-33" value="Реализовать пакетный пайплайн данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="275" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-34" value="Реализовать потоковый пайплайн данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="275" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-35" value="Реализовать пакетный пайплайн данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="20" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-36" value="Реализовать потоковый пайплайн данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="20" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-37" value="Реализовать пакетный пайплайн данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="-202.5" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-38" value="Реализовать потоковый пайплайн данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="-202.5" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-12" value="Реализовать пакетный пайплайн данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1315" y="817.5" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-13" value="Реализовать потоковый пайплайн данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-995" y="817.5" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-39" value="Подготовка к трансформации IT инфраструктуры" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="-205" width="770" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-40" value="Подготовка к трансформации IT инфраструктуры" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="20" width="770" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-41" value="Подготовка к трансформации IT инфраструктуры" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2490" y="270" width="770" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-42" value="Подготовка к трансформации IT инфраструктуры" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="540" width="770" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-43" value="Подготовка к трансформации IT инфраструктуры" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="812.5" width="770" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-44" value="Реализовать новое приложение для операторов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2210" y="-550" width="1460" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-45" value="Настроить каталог данных DataHub" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1370" y="-1110" width="650" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bP0T5cIy9ZjPmYZ55eHy-46" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;Обоснование&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Замена старого DWH на основе MSSQL на Data Lake позволит сэкономить деньги на лицензии. Также для&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;MSSQL&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;сервер плохо масштабируется и для достижения требуемой производительности необходимо будет вкладывать значительные средства в аппаратные мощности. Повышение производительности положительно повлияет на продуктивность сотрудников.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Внедрение концепции Data Mesh позволит интегрировать новые бизнесы без переписывания логики в&amp;nbsp; DWH. Также это повысит качество данных, а значит улучшит аналитику данных. Позволит развивать продукты независимо, сокращая накладные расходы на коммуникацию.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Внедрение Greenplum в качестве витрины данных позволит ускорить построение отчётов, так как этот DWH хорошо масштабируется горизонтально. Это снизит риски ухудшения производительности после интеграций новых бизнес доменов.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Использование Data Lake повысит эффективность работы ИИ домена, так как задуман для работы с неструктурированными данными.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Создание нового приложения для операторов необходимо для упрощения работы операторов в Data Lake. Он заменит устаревшее приложение Power Builder. Позволит эффективнее работать с данными и улучшит пользовательский опыт.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Создание программы обучения сотрудников, включая пример реализации пайплайна, позволит значительно ускорить подключение доменов к новой инфраструктуре, уменьшит количество ошибок, а также снизит стоимость поддержки в будущем.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Внедрение Kubernates и Kafka позволит решить проблемы с масштабируемостью системы и уменьшить риск отказа при увеличении объёма данных.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3580" y="-1146.8" width="760" height="1066.8" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
